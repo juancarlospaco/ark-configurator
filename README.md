@@ -7,6 +7,10 @@
 
 # FAQ
 
+- Why?.
+
+Ive seen a lot of tools to configure `GameUserSettings.ini` but few for `Game.ini`
+
 - Why not Mobile App?.
 
 Ark has so many configurations that you will be a year just scrolling thru the configurations on a tiny screen.
