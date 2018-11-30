@@ -72,9 +72,9 @@ On start Ark reads `Game.ini` first, then reads `GameUserSettings.ini`
 
 Repeated configurations on `Game.ini` can be overwritten by `GameUserSettings.ini`
 
-Not all configurations can be set on `GameUserSettings.ini`, for example core game ones
+Not all configurations can be set on `GameUserSettings.ini`, for example core game configurations.
 
-Not all configurations can be set on `Game.ini`, for example Mods
+Not all configurations can be set on `Game.ini`, for example Mods.
 
 This simple script reads all the `config/*.ini` and `config/*.json` files and generates 1 `*.ini` config file for all the ARK Survival Evolved settings.
 
