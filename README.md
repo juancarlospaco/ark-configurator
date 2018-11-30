@@ -106,4 +106,8 @@ Prefer tiny mods to big heavy mods, multiple tiny mods are still better than one
 
 To reduce lag, periodically check for Meshing bases and wipe them.
 
+To reduce lag, make corpses disappear faster.
+
+To reduce lag, disable wooden raft.
+
 </details>
