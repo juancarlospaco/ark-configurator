@@ -6,19 +6,19 @@
     "PrimalItemResource_Stone_C": 99
   },
   "PrimalItem_WeaponFlareGun_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_ConsumableBuff_Parachute_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_WeaponBola_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_WeaponWhip_C": {
-    "PrimalItemResource_Wood_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_WeaponBoomerang_C": {
-    "PrimalItemResource_Wood_C": 1
+    "PrimalItemResource_Stone_C": 9
   },
   "PrimalItem_WeaponLasso_C": {
     "PrimalItemResource_Stone_C": 1
@@ -27,25 +27,25 @@
     "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemConsumableSoap_C": {
-    "PrimalItemResource_Stone_C": 99
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemRadio_C": {
     "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_WeaponStoneHatchet_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_WeaponStonePick_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_WeaponTorch_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_WeaponSpyglass_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemConsumable_CanteenCraftable_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemStructure_StoneFloor_C": {
     "PrimalItemResource_Wood_C": 9,
@@ -352,18 +352,17 @@
   "EngramEntry_TekLadder_C": {
     "PrimalItemResource_Thatch_C": 99,
     "PrimalItemResource_Fibers_C": 99,
-    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Wood_C": 9,
     "PrimalItemResource_Flint_C": 9,
     "PrimalItemResource_Hide_C": 9,
     "PrimalItemResource_Metal_C": 9,
     "PrimalItemResource_Stone_C": 99,
-    "PrimalItemResource_Charcoal_C": 99
   },
   "EngramEntry_TekLight_C": {
-    "PrimalItemResource_Stone_C": 99
+    "PrimalItemResource_Stone_C": 9
   },
   "EngramEntry_TekTrough_C": {
-    "PrimalItemResource_Stone_C": 99
+    "PrimalItemResource_Stone_C": 9
   },
   "EngramEntry_TekBed_C": {
     "PrimalItemResource_Thatch_C": 99,
@@ -381,10 +380,10 @@
     "PrimalItemResource_Pelt_C": 99
   },
   "EngramEntry_TekUnderwaterBase_C": {
-    "PrimalItemResource_Stone_C": 99
+    "PrimalItemResource_Stone_C": 9
   },
   "EngramEntry_TekUnderwaterBase_BottomEntry_C": {
-    "PrimalItemResource_Stone_C": 99
+    "PrimalItemResource_Stone_C": 9
   },
   "EngramEntry_TekGenerator_C": {
     "PrimalItemResource_Thatch_C": 99,
@@ -414,9 +413,7 @@
     "PrimalItemResource_Polymer_C": 99
   },
   "PrimalItem_WeaponGPS_C": {
-    "PrimalItemResource_Stone_C": 9,
-    "PrimalItemResource_Polymer_Organic_C": 3,
-    "PrimalItemResource_Electronics_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemArmor_RockDrakeSaddle_C": {
     "PrimalItemResource_Stone_C": 99,
@@ -439,22 +436,22 @@
     "PrimalItemResource_Hide_C": 99
   },
   "PrimalItemArmor_ParacerSaddle_Platform_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemArmor_Gallimimus_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemArmor_PelaSaddle_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemArmor_RhinoSaddle_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemArmor_MothSaddle_C": {
     "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemArmor_SpineyLizardSaddle_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemArmor_MantisSaddle_C": {
     "PrimalItemResource_Stone_C": 1
@@ -473,7 +470,7 @@
     "PrimalItemResource_Stone_C": 99
   },
   "PrimalItem_ChargeBattery_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemStructure_Metal_CliffPlatform_C": {
     "PrimalItemResource_MetalIngot_C": 99,
@@ -502,22 +499,22 @@
     "PrimalItemResource_Stone_C": 99
   },
   "PrimalItem_WeaponClimbPick_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemArmor_Glider_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_GlowStick_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItem_Pliers_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemArmor_ZiplineMotor_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemStructure_Furniture_Rug_C": {
-    "PrimalItemResource_Stone_C": 99
+    "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemStructure_WoodElevatorPlatform_Large_C": {
     "PrimalItemResource_Stone_C": 9
@@ -526,41 +523,22 @@
     "PrimalItemResource_Stone_C": 9
   },
   "PrimalItemStructure_WoodElevatorTrack_C": {
-    "PrimalItemResource_Stone_C": 9
+    "PrimalItemResource_Stone_C": 1
   },
-  "PrimalItemStructure_LCFireplace_C": {
+  "PrimalItemStructure_Forge_C": {
     "PrimalItemResource_Wood_C": 9,
     "PrimalItemResource_Fibers_C": 9,
     "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Thatch_C": 9,
     "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Chitin_C": 9,
     "PrimalItemResource_Hide_C": 9
   },
-  "PrimalItemStructure_Forge_C": {
-    "PrimalItemResource_Wood_C": 99,
-    "PrimalItemResource_Fibers_C": 99,
-    "PrimalItemResource_Stone_C": 199,
-    "PrimalItemResource_Thatch_C": 99,
-    "PrimalItemResource_Flint_C": 99,
-    "PrimalItemResource_Chitin_C": 99,
-    "PrimalItemResource_Hide_C": 99
-  },
-  "PrimalItem_AwesomeSpyGlass_C": {
-    "PrimalItemResource_Stone_C": 1
-  },
-  "SoulTrapper_C": {
-    "PrimalItemResource_Stone_C": 1
-  },
-  "SoulGun_C": {
-    "PrimalItemResource_Stone_C": 1
-  },
-  "PrimalItem_DiploClub_C": {
-    "PrimalItemResource_Stone_C": 1
-  },
   "PrimalItemArmor_TitanSaddle_Platform_C": {
-    "PrimalItemResource_Stone_C": 99,
-    "PrimalItemResource_MetalIngot_C": 999,
-    "PrimalItemResource_Hide_C": 99,
-    "PrimalItemResource_Fibers_C": 999
+    "PrimalItemResource_Stone_C": 9,
+    "PrimalItemResource_MetalIngot_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Fibers_C": 9
   },
   "PrimalItemAmmo_ArrowStone_C": {
     "PrimalItemResource_Stone_C": 1
@@ -581,12 +559,62 @@
     "PrimalItemResource_Stone_C": 1
   },
   "PrimalItemStructure_SeaMine_C": {
-    "PrimalItemResource_Stone_C": 99
-  },
-  "PrimalItemConsumable_SweetVeggieCake_C": {
     "PrimalItemResource_Stone_C": 9
   },
+  "PrimalItemConsumable_SweetVeggieCake_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
   "PrimalItemVHBuggy_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemStructure_DinoLeash": {
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 9
+  },
+  "PrimalItemStructure_StorageBox_Balloon": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItem_WeaponTaxidermyTool": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItem_WeaponTekGravityGrenade": {
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 9
+  },
+  "PrimalItem_WeaponEmptyCryopod": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemStructure_CryoFridge": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemArmor_MekTransformer": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemArmor_GachaSaddle": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemArmor_GasBagsSaddle": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemConsumable_Kibble_Base_XSmall_EX": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemConsumable_Kibble_Base_XLarge_EX": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemConsumable_Kibble_Base_XLarge_EX": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemConsumable_Kibble_Base_Small_EX": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemConsumable_Kibble_Base_Special_EX": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemConsumable_Kibble_Base_Medium_EX": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemConsumable_Kibble_Base_Large_EX": {
     "PrimalItemResource_Stone_C": 1
   }
 }
