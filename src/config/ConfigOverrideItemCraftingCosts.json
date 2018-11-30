@@ -1,0 +1,592 @@
+{
+  "SB_EngramEntry_Shield_mini_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItem_WeaponSpear_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItem_WeaponFlareGun_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItem_ConsumableBuff_Parachute_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItem_WeaponBola_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItem_WeaponWhip_C": {
+    "PrimalItemResource_Wood_C": 9
+  },
+  "PrimalItem_WeaponBoomerang_C": {
+    "PrimalItemResource_Wood_C": 1
+  },
+  "PrimalItem_WeaponLasso_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItem_WeaponFishingRod_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemConsumableSoap_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemRadio_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItem_WeaponStoneHatchet_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItem_WeaponStonePick_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItem_WeaponTorch_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItem_WeaponSpyglass_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemConsumable_CanteenCraftable_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemStructure_StoneFloor_C": {
+    "PrimalItemResource_Wood_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Thatch_C": 99
+  },
+  "PrimalItemStructure_StoneWall_C": {
+    "PrimalItemResource_Wood_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Thatch_C": 99
+  },
+  "PrimalItemStructure_StoneCeiling_C": {
+    "PrimalItemResource_Wood_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Thatch_C": 99
+  },
+  "PrimalItemStructure_StoneWallWithDoor_C": {
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Thatch_C": 99
+  },
+  "PrimalItemStructure_StoneDoor_C": {
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Thatch_C": 99
+  },
+  "PrimalItemStructure_MetalFloor_C": {
+    "PrimalItemResource_Metal_C": 59,
+    "PrimalItemResource_ChitinPaste_C": 9
+  },
+  "PrimalItemStructure_MetalWall_C": {
+    "PrimalItemResource_Metal_C": 29,
+    "PrimalItemResource_ChitinPaste_C": 9
+  },
+  "PrimalItemStructure_MetalCeiling_C": {
+    "PrimalItemResource_Metal_C": 39,
+    "PrimalItemResource_ChitinPaste_C": 9
+  },
+  "PrimalItemStructure_MetalDoor_C": {
+    "PrimalItemResource_Metal_C": 19,
+    "PrimalItemResource_ChitinPaste_C": 5
+  },
+  "PrimalItemStructure_MetalWallWithDoor_C": {
+    "PrimalItemResource_Metal_C": 29,
+    "PrimalItemResource_ChitinPaste_C": 5
+  },
+  "PrimalItemStructure_TekFloor_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 99,
+    "PrimalItemResource_Hide_C": 99,
+    "PrimalItemResource_Metal_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_ChitinPaste_C": 9,
+    "PrimalItemResource_Crystal_C": 99,
+    "PrimalItemResource_Obsidian_C": 99,
+    "PrimalItemResource_Oil_C": 99,
+    "PrimalItemResource_Chitin_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "PrimalItemStructure_TekWall_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 99,
+    "PrimalItemResource_Hide_C": 99,
+    "PrimalItemResource_Metal_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_ChitinPaste_C": 9,
+    "PrimalItemResource_Crystal_C": 99,
+    "PrimalItemResource_Obsidian_C": 99,
+    "PrimalItemResource_Oil_C": 99,
+    "PrimalItemResource_Chitin_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "PrimalItemStructure_TekCeiling_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 99,
+    "PrimalItemResource_Hide_C": 99,
+    "PrimalItemResource_Metal_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_ChitinPaste_C": 9,
+    "PrimalItemResource_Crystal_C": 99,
+    "PrimalItemResource_Obsidian_C": 99,
+    "PrimalItemResource_Oil_C": 99,
+    "PrimalItemResource_Chitin_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "PrimalItemStructure_TekWallwithdoor_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 99,
+    "PrimalItemResource_Hide_C": 99,
+    "PrimalItemResource_Metal_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_ChitinPaste_C": 9,
+    "PrimalItemResource_Crystal_C": 99,
+    "PrimalItemResource_Obsidian_C": 99,
+    "PrimalItemResource_Oil_C": 99,
+    "PrimalItemResource_Chitin_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "PrimalItemStructure_TekDoor_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 99,
+    "PrimalItemResource_Hide_C": 99,
+    "PrimalItemResource_Metal_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_ChitinPaste_C": 9,
+    "PrimalItemResource_Crystal_C": 99,
+    "PrimalItemResource_Obsidian_C": 99,
+    "PrimalItemResource_Oil_C": 99,
+    "PrimalItemResource_Chitin_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekBoots_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "EngramEntry_TekHelmet_C": {
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Stone_C": 99
+  },
+  "EngramEntry_TekShieldArmor_C": {
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Stone_C": 99
+  },
+  "EngramEntry_TekCeilingWithTrapdoor_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Oil_C": 9,
+    "PrimalItemResource_Chitin_C": 9,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekWindow_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Oil_C": 9,
+    "PrimalItemResource_Chitin_C": 9,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekWallWithWindow_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Oil_C": 9,
+    "PrimalItemResource_Chitin_C": 9,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekPillar_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 99,
+    "PrimalItemResource_Hide_C": 99,
+    "PrimalItemResource_Metal_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Crystal_C": 9,
+    "PrimalItemResource_Oil_C": 99,
+    "PrimalItemResource_Chitin_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekRailing_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 9,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 9,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekRamp_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Oil_C": 9,
+    "PrimalItemResource_Chitin_C": 9,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekStairs_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekTrapdoor_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Oil_C": 9,
+    "PrimalItemResource_Chitin_C": 9,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekFenceFoundation_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 99,
+    "PrimalItemResource_Hide_C": 99,
+    "PrimalItemResource_Metal_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 9,
+    "PrimalItemResource_Oil_C": 99,
+    "PrimalItemResource_Chitin_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekCloningChamber_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Oil_C": 9,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekRoof_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Oil_C": 9,
+    "PrimalItemResource_Chitin_C": 9,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekSlopedWall_Left_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekSlopedWall_Right_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekCatwalk_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekLadder_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "EngramEntry_TekLight_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "EngramEntry_TekTrough_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "EngramEntry_TekBed_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 99,
+    "PrimalItemResource_Hide_C": 99,
+    "PrimalItemResource_Metal_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 9,
+    "PrimalItemResource_Crystal_C": 9,
+    "PrimalItemResource_Obsidian_C": 9,
+    "PrimalItemResource_Oil_C": 99,
+    "PrimalItemResource_Hair_C": 9,
+    "PrimalItemResource_Pelt_C": 99
+  },
+  "EngramEntry_TekUnderwaterBase_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "EngramEntry_TekUnderwaterBase_BottomEntry_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "EngramEntry_TekGenerator_C": {
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9,
+    "PrimalItemResource_Metal_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Oil_C": 9,
+    "PrimalItemResource_Chitin_C": 9,
+    "PrimalItemResource_Charcoal_C": 99
+  },
+  "PrimalItem_WeaponC4_C": {
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Crystal_C": 99,
+    "PrimalItemResource_ChitinPaste_C": 99,
+    "PrimalItemResource_Polymer_C": 99,
+    "PrimalItemResource_Electronics_C": 99
+  },
+  "PrimalItem_WeaponRocketLauncher_C": {
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_ChitinPaste_C": 75,
+    "PrimalItemResource_Polymer_C": 99
+  },
+  "PrimalItem_WeaponGPS_C": {
+    "PrimalItemResource_Stone_C": 9,
+    "PrimalItemResource_Polymer_Organic_C": 3,
+    "PrimalItemResource_Electronics_C": 9
+  },
+  "PrimalItemArmor_RockDrakeSaddle_C": {
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Hide_C": 99
+  },
+  "PrimalItemArmor_MoleRatSaddle_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemArmor_BasiliskSaddle_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemArmor_CaveWolfSaddle_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemArmor_CrabSaddle_C": {
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Hide_C": 99
+  },
+  "PrimalItemArmor_ParacerSaddle_Platform_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemArmor_Gallimimus_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemArmor_PelaSaddle_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemArmor_RhinoSaddle_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemArmor_MothSaddle_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemArmor_SpineyLizardSaddle_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemArmor_MantisSaddle_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItem_WeaponTransGPS_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemTransGPSAmmo_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItem_WeaponRadioactiveLanternCharge_C": {
+    "PrimalItemResource_MetalIngot_C": 50,
+    "PrimalItemResource_Crystal_C": 99,
+    "PrimalItemResource_ChitinPaste_C": 9,
+    "PrimalItemResource_Electronics_C": 32,
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItem_ChargeBattery_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemStructure_Metal_CliffPlatform_C": {
+    "PrimalItemResource_MetalIngot_C": 99,
+    "PrimalItemResource_ChitinPaste_C": 9,
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemStructure_FishBasket_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemStructure_PortableLadder_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemArmor_HazardSuitHelmet_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemArmor_HazardSuitShirt_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemArmor_HazardSuitPants_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemArmor_HazardSuitBoots_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemArmor_HazardSuitGloves_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItem_WeaponClimbPick_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemArmor_Glider_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItem_GlowStick_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItem_Pliers_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemArmor_ZiplineMotor_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemStructure_Furniture_Rug_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemStructure_WoodElevatorPlatform_Large_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemStructure_WoodElevatorTopSwitch_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemStructure_WoodElevatorTrack_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemStructure_LCFireplace_C": {
+    "PrimalItemResource_Wood_C": 9,
+    "PrimalItemResource_Fibers_C": 9,
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_Flint_C": 9,
+    "PrimalItemResource_Hide_C": 9
+  },
+  "PrimalItemStructure_Forge_C": {
+    "PrimalItemResource_Wood_C": 99,
+    "PrimalItemResource_Fibers_C": 99,
+    "PrimalItemResource_Stone_C": 199,
+    "PrimalItemResource_Thatch_C": 99,
+    "PrimalItemResource_Flint_C": 99,
+    "PrimalItemResource_Chitin_C": 99,
+    "PrimalItemResource_Hide_C": 99
+  },
+  "PrimalItem_AwesomeSpyGlass_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "SoulTrapper_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "SoulGun_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItem_DiploClub_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemArmor_TitanSaddle_Platform_C": {
+    "PrimalItemResource_Stone_C": 99,
+    "PrimalItemResource_MetalIngot_C": 999,
+    "PrimalItemResource_Hide_C": 99,
+    "PrimalItemResource_Fibers_C": 999
+  },
+  "PrimalItemAmmo_ArrowStone_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemAmmo_GrapplingHook_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemAmmo_ArrowTranq": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemAmmo_ArrowFlame_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemAmmo_Flamethrower_C": {
+    "PrimalItemAmmo_ArrowFlame_C": 9
+  },
+  "PrimalItem_WeaponLance_C": {
+    "PrimalItemResource_Stone_C": 1
+  },
+  "PrimalItemStructure_SeaMine_C": {
+    "PrimalItemResource_Stone_C": 99
+  },
+  "PrimalItemConsumable_SweetVeggieCake_C": {
+    "PrimalItemResource_Stone_C": 9
+  },
+  "PrimalItemVHBuggy_C": {
+    "PrimalItemResource_Stone_C": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "SupplyCrate_Level60_C": [
+    {
+      "PrimalItemResource_Element_C": {
+        "ItemsWeights": 99,
+        "MinQuantity": 5555,
+        "MaxQuantity": 9999,
+        "MinQuality": 1,
+        "MaxQuality": 1,
+        "ChanceToBeBlueprintOverride": 0
+      },
+      "PrimalItemArmor_WoodShield_C": {
+        "ItemsWeights": 99,
+        "MinQuantity": 5555,
+        "MaxQuantity": 9999,
+        "MinQuality": 1,
+        "MaxQuality": 1,
+        "ChanceToBeBlueprintOverride": 0
+      },
+      "PrimalItemArmor_AnkyloSaddle_C": {
+        "ItemsWeights": 99,
+        "MinQuantity": 5555,
+        "MaxQuantity": 9999,
+        "MinQuality": 1,
+        "MaxQuality": 1,
+        "ChanceToBeBlueprintOverride": 0
+      },
+      "PrimalItemArmor_FurPants_C": {
+        "ItemsWeights": 99,
+        "MinQuantity": 5555,
+        "MaxQuantity": 9999,
+        "MinQuality": 1,
+        "MaxQuality": 1,
+        "ChanceToBeBlueprintOverride": 0
+      }
+    },
+    {
+      "PrimalItemArmor_BasiliskSaddle_C": {
+        "ItemsWeights": 99,
+        "MinQuantity": 5555,
+        "MaxQuantity": 9999,
+        "MinQuality": 1,
+        "MaxQuality": 1,
+        "ChanceToBeBlueprintOverride": 0
+      },
+      "PrimalItemArmor_ChitinHelmet_C": {
+        "ItemsWeights": 99,
+        "MinQuantity": 5555,
+        "MaxQuantity": 9999,
+        "MinQuality": 1,
+        "MaxQuality": 1,
+        "ChanceToBeBlueprintOverride": 0
+      },
+      "PrimalItem_WeaponMetalPick_C": {
+        "ItemsWeights": 99,
+        "MinQuantity": 5555,
+        "MaxQuantity": 9999,
+        "MinQuality": 1,
+        "MaxQuality": 1,
+        "ChanceToBeBlueprintOverride": 0
+      }
+
+    }
+  ]
+}
