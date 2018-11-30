@@ -26,6 +26,10 @@ Atom, VS Code, Notepad++ is still better than an HTML `<textarea>`.
 
 Besides if you play Ark you already have a PC ;P
 
+- I dont know how to use Git?.
+
+Use a Pastebin.
+
 - How to install?.
 
 Dont need install. just run it.
