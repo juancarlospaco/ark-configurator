@@ -28,7 +28,7 @@ Besides if you play Ark you already have a PC ;P
 
 - I dont know how to use Git?.
 
-Use a Pastebin.
+Use a Pastebin or GitHub Gist.
 
 - How to install?.
 
