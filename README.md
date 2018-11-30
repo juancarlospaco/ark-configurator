@@ -86,6 +86,8 @@ To reduce lag, make your players spawn with 250~500 Kg weight, and disable addin
 
 To reduce lag, make your players spawn with very high Water stat, its annoying to drink water all the time and people make pipes everywhere.
 
+To reduce lag, disable all Thatch structures, they sux anyways.
+
 Any mod that makes the birds go faster makes lag (Classic Flyer, Speed Saddle, Speed Soup, etc), instead make land dinos and water dinos faster to reduce lag and allows to travel faster.
 
 Make Herbivores stronger and cheap Veggy Cakes so people tame more varied dinos, else everyone only tame Rexes and Gigas.
