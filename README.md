@@ -49,3 +49,55 @@ https://ini.arkforum.de/index.php?lang=en&mode=all
 - Can I trust your App?.
 
 Read the code, scan it with all the Anti-Virus, run it on VirtualBox, or even compile it yourself.
+
+- This generates a `Game.ini` from `*.ini` files, is not that stupid?.
+
+Resulting `Game.ini` is more than 2000 lines, with very long lines, weird syntax, a lot of repetition, super verbose.
+
+The `*.ini` files that this app uses are tiny and simple, few lines, very short lines, `key = value` syntax, no repetition, no verbose.
+
+You can say its like `Game.ini` "Pre-Processor" :)
+
+
+#### Tips
+
+<details>
+
+Set `MaxSpectators` to the same number of **active Admins** on your server, for security,
+lets say you have 1 Admin, but more than 1 Spectator, then that means that someone hacked your server password.
+
+Some configuration can be repeated on `Game.ini` & `GameUserSettings.ini`
+
+On start Ark reads Game.ini first, then reads `GameUserSettings.ini`
+
+Repeated configurations on `Game.ini` can be overwritten by `GameUserSettings.ini`
+
+Not all configurations can be set on `GameUserSettings.ini`, for example core game ones
+
+Not all configurations can be set on `Game.ini`, for example Mods
+
+This simple script reads all the `config/*.ini` and `config/*.json` files and generates 1 `*.ini` config file for all the ARK Survival Evolved settings.
+
+To reduce lag, disable Brontos, replace them with other tameable dino.
+
+To reduce lag, disable Volcano on Ragnarok.
+
+To reduce lag, make your players spawn with 250~500 Kg weight, and disable adding more weight, if the player holds too much inventory the server lags, but if you set too low weight everyone complains.
+
+To reduce lag, make your players spawn with very high Water stat, its annoying to drink water all the time and people make pipes everywhere.
+
+Any mod that makes the birds go faster makes lag (Classic Flyer, Speed Saddle, Speed Soup, etc), instead make land dinos and water dinos faster to reduce lag and allows to travel faster.
+
+Dont use a high Harvest multiplier it makes lag, instead make stuff cheaper by reducing the crafting costs.
+
+Make possible to use stuff from other maps without mods by adding those items to the supply crates.
+
+Make possible to use dinos from other maps without mods by replacing useless dinos with the ones from other maps.
+
+Dont use too high Speed multiplier on the player, makes lag and allows speed hacks.
+
+Disable the Industrial Grinder it allows Dupes and hacks.
+
+Prefer tiny mods to big heavy mods, multiple tiny mods are still better than one big heavy mod.
+
+</details>

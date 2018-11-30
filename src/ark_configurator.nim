@@ -1,12 +1,3 @@
-## This simple script walks the sub-folders, collects all ``*.ini`` files,
-## and generates 1 INI config file for all the ARK Survival Evolved settings.
-## For GameUserSettings.ini see https://ini.arkforum.de/index.php?lang=en&mode=all
-## Set MaxSpectators to the number of active Admins on your server for security
-## Some configuration can be repeated on Game.ini & GameUserSettings.ini
-## On start Ark reads Game.ini first, then reads GameUserSettings.ini
-## Repeated configurations on Game.ini can be overwriten by GameUserSettings.ini
-## Not all config can be set on GameUserSettings.ini, for example core game ones
-## Not all config can be set on Game.ini, for example Mods
 import ospaths, os, strutils, parsecfg, streams, json, tables, times
 
 const gameini_header = """
