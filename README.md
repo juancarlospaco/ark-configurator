@@ -68,7 +68,7 @@ lets say you have 1 Admin, but more than 1 Spectator, then that means that someo
 
 Some configuration can be repeated on `Game.ini` & `GameUserSettings.ini`
 
-On start Ark reads Game.ini first, then reads `GameUserSettings.ini`
+On start Ark reads `Game.ini` first, then reads `GameUserSettings.ini`
 
 Repeated configurations on `Game.ini` can be overwritten by `GameUserSettings.ini`
 
