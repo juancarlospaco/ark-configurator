@@ -48,4 +48,4 @@ https://ini.arkforum.de/index.php?lang=en&mode=all
 
 - Can I trust your App?.
 
-Read the code, scan it with all the Anti-Virus, or even compile it yourself.
+Read the code, scan it with all the Anti-Virus, run it on VirtualBox, or even compile it yourself.
