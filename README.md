@@ -88,6 +88,8 @@ To reduce lag, make your players spawn with very high Water stat, its annoying t
 
 Any mod that makes the birds go faster makes lag (Classic Flyer, Speed Saddle, Speed Soup, etc), instead make land dinos and water dinos faster to reduce lag and allows to travel faster.
 
+Make Herbivores stronger and cheap Veggy Cakes so people tame more varied dinos, else everyone only tame Rexes and Gigas.
+
 Dont use a high Harvest multiplier it makes lag, instead make stuff cheaper by reducing the crafting costs.
 
 Make possible to use stuff from other maps without mods by adding those items to the supply crates.
