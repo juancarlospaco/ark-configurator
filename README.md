@@ -104,4 +104,6 @@ Disable the Industrial Grinder it allows Dupes and hacks.
 
 Prefer tiny mods to big heavy mods, multiple tiny mods are still better than one big heavy mod.
 
+To reduce lag, periodically check for Meshing bases and wipe them.
+
 </details>
