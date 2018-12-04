@@ -3,18 +3,6 @@ import ospaths, os, strutils, parsecfg, streams, json, tables, times
 const gameini_header = """
 # $1
 
-# [SessionSettings]
-# SessionName=TYPE YOUR SERVER NAME HERE
-
-# [MessageOfTheDay]
-# Message=TYPE YOUR SERVER MessageOfTheDay HERE
-# Duration=15
-
-[Ragnarok]                      # This block is ignored if map is not Ragnarok
-AllowMultipleTamedUnicorns=true # Allow Unicorn respawns if 1 tamed
-UnicornSpawnInterval=1          # Unicorn respawn quickly if dead
-DisableVolcano=true             # Reduce Lag, recommended
-
 [/Script/Engine.GameSession]
 MaxPlayers=250  # Server Slots, will be ignored if your Hosting overwrites it.
 MaxSpectators=1 # If you have 1 Admin,but more than 1 Spectator,then someone hacked your server password.
@@ -174,26 +162,26 @@ proc main(): string =
       elif it.toLowerAscii.endsWith("perlevelstatsmultiplier_dinotamed.ini"):
         for it in config.pairs:
           gameini.add PerLvlDinoStat[it.key.toLowerAscii] & "=" & replace($it.val, "\"", "") & "  # " & it.key & "\n"
-    if it.endsWith(".json"):
+    elif it.endsWith(".json"):
       let config = parseFile(it)
       if it.toLowerAscii.endsWith("configoverrideitemcraftingcosts.json"):
-        var resources: seq[string]
         for it in config.pairs:
+          var resources: seq[string] = @[]
           for resource in it.val.pairs:
             resources.add ResourceItemTypeString.format(resource.key, resource.val)
           gameini.add ConfigOverrideItemCraftingCosts.format(it.key, resources.join(","))
-      elif it.toLowerAscii.endsWith("configoverridesupplycrateitems.json"):
-        for it in config.pairs:
-          var all_itemssets: seq[string] = @[]
-          for itemset in it.val:
-            var all_items: seq[string] = @[]
-            for items in itemset.pairs:
-              var all_configs: seq[string] = @[]
-              for configs in items.val.pairs:
-                all_configs.add configs.key & "=" & $configs.val & ".0"
-              all_items.add LootItem.format(items.key, all_configs.join(",")) & "\n"
-            all_itemssets.add innerItemSet.format(all_items.join(","))
-          gameini.add ConfigOverrideSupplyCrateItems.format(it.key, all_itemssets.join(","))
+      # elif it.toLowerAscii.endsWith("configoverridesupplycrateitems.json"):
+      #   for it in config.pairs:
+      #     var all_itemssets: seq[string] = @[]
+      #     for itemset in it.val:
+      #       var all_items: seq[string] = @[]
+      #       for items in itemset.pairs:
+      #         var all_configs: seq[string] = @[]
+      #         for configs in items.val.pairs:
+      #           all_configs.add configs.key & "=" & $configs.val & ".0"
+      #         all_items.add LootItem.format(items.key, all_configs.join(",")) & "\n"
+      #       all_itemssets.add innerItemSet.format(all_items.join(","))
+      #     gameini.add ConfigOverrideSupplyCrateItems.format(it.key, all_itemssets.join(","))
   writeFile(gameini_output, gameini)
   result = "\nCreated new Ark Survival Evolved Dedicated Server config: " & gameini_output
 
