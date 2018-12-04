@@ -170,18 +170,18 @@ proc main(): string =
           for resource in it.val.pairs:
             resources.add ResourceItemTypeString.format(resource.key, resource.val)
           gameini.add ConfigOverrideItemCraftingCosts.format(it.key, resources.join(","))
-      # elif it.toLowerAscii.endsWith("configoverridesupplycrateitems.json"):
-      #   for it in config.pairs:
-      #     var all_itemssets: seq[string] = @[]
-      #     for itemset in it.val:
-      #       var all_items: seq[string] = @[]
-      #       for items in itemset.pairs:
-      #         var all_configs: seq[string] = @[]
-      #         for configs in items.val.pairs:
-      #           all_configs.add configs.key & "=" & $configs.val & ".0"
-      #         all_items.add LootItem.format(items.key, all_configs.join(",")) & "\n"
-      #       all_itemssets.add innerItemSet.format(all_items.join(","))
-      #     gameini.add ConfigOverrideSupplyCrateItems.format(it.key, all_itemssets.join(","))
+      elif it.toLowerAscii.endsWith("configoverridesupplycrateitems.json"):
+        for it in config.pairs:
+          var all_itemssets: seq[string] = @[]
+          for itemset in it.val:
+            var all_items: seq[string] = @[]
+            for items in itemset.pairs:
+              var all_configs: seq[string] = @[]
+              for configs in items.val.pairs:
+                all_configs.add configs.key & "=" & $configs.val & ".0"
+              all_items.add LootItem.format(items.key, all_configs.join(","))
+            all_itemssets.add innerItemSet.format(all_items.join(","))
+          gameini.add ConfigOverrideSupplyCrateItems.format(it.key, all_itemssets.join(","))
   writeFile(gameini_output, gameini)
   result = "\nCreated new Ark Survival Evolved Dedicated Server config: " & gameini_output
 
